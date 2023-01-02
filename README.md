@@ -1,4 +1,4 @@
-##Dark_and_Light_Themed_Calculator
+#Dark_and_Light_Themed_Calculator
 
 #oasis infobyte intern project no. 1
 

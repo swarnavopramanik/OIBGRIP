@@ -6,4 +6,5 @@ Intership Project TASk_2
 
 Building a basic Calculator app using HTML,CSS and JASVASCIPT .
 
-https://ibb.co/W3wg1GS
+![Screenshot (285)](https://user-images.githubusercontent.com/105142693/210195924-54619c66-d8aa-47f7-9ee6-fcd1883af25e.png)
+

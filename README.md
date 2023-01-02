@@ -2,6 +2,6 @@
 
 #oasis infobyte intern project no. 1
 
-Intership Project TASL_2
+Intership Project TASk_2
 
 Building a basic Calculator app using HTML,CSS and JASVASCIPT .
